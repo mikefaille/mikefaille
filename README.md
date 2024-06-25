@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-[![Most Used Languages](https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=mikefaille&layout=compact&role=owner,collaborator&langs_count=12&hide=nix,javascript,c%23,css,scss,html&exclude_repo=jikan,1blu-svelte-mail-setup,mail-setup-euromet,dots,nxvim&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats-beryl-one.vercel.app/api/top-langs/?username=mikefaille&layout=compact&role=owner,collaborator&langs_count=12&hide=groff,c++,c,javascript,c%23,css,scss&exclude_repo=1&theme=github_dark_dimmed)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mikefaille/mikefaille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
